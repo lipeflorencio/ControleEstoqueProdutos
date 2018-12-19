@@ -1,0 +1,9 @@
+C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Repository\bin\Debug\Projeto.Repository.dll
+C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Repository\bin\Debug\Projeto.Repository.pdb
+C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Repository\bin\Debug\Projeto.Entities.dll
+C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Repository\bin\Debug\Projeto.Entities.pdb
+C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Repository\obj\Debug\Projeto.Repository.csprojAssemblyReference.cache
+C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Repository\obj\Debug\Projeto.Repository.csproj.CoreCompileInputs.cache
+C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Repository\obj\Debug\Projeto.Repository.csproj.CopyComplete
+C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Repository\obj\Debug\Projeto.Repository.dll
+C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Repository\obj\Debug\Projeto.Repository.pdb

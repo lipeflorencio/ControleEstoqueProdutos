@@ -49,12 +49,17 @@ C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\Cont
 C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Presentation\bin\roslyn\VBCSCompiler.exe.config
 C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Presentation\bin\Projeto.Business.dll
+C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Presentation\bin\Projeto.Entities.dll
 C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Presentation\bin\System.Web.Helpers.dll
 C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Presentation\bin\System.Web.Mvc.dll
 C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Presentation\bin\System.Web.Razor.dll
 C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Presentation\bin\System.Web.Webpages.Deployment.dll
 C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Presentation\bin\System.Web.Webpages.dll
 C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Presentation\bin\System.Web.Webpages.Razor.dll
+C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Presentation\bin\Projeto.Repository.dll
+C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Presentation\bin\Projeto.Business.pdb
+C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Presentation\bin\Projeto.Entities.pdb
 C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Presentation\bin\System.Web.Razor.xml
 C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Presentation\bin\System.Web.Webpages.xml
 C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Presentation\bin\System.Web.Webpages.Deployment.xml
@@ -62,6 +67,7 @@ C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\Cont
 C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Presentation\bin\System.Web.Helpers.xml
 C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Presentation\bin\System.Web.Mvc.xml
 C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Presentation\bin\Projeto.Repository.pdb
 C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Presentation\bin\pt-br\System.Web.Razor.resources.dll
 C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Presentation\bin\pt-br\System.Web.Webpages.resources.dll
 C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Presentation\bin\pt-br\System.Web.Webpages.Deployment.resources.dll

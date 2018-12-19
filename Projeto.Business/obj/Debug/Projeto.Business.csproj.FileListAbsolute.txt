@@ -1,0 +1,11 @@
+C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Business\bin\Debug\Projeto.Business.dll
+C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Business\bin\Debug\Projeto.Business.pdb
+C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Business\bin\Debug\Projeto.Entities.dll
+C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Business\bin\Debug\Projeto.Repository.dll
+C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Business\bin\Debug\Projeto.Entities.pdb
+C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Business\bin\Debug\Projeto.Repository.pdb
+C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Business\obj\Debug\Projeto.Business.csprojAssemblyReference.cache
+C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Business\obj\Debug\Projeto.Business.csproj.CoreCompileInputs.cache
+C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Business\obj\Debug\Projeto.Business.csproj.CopyComplete
+C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Business\obj\Debug\Projeto.Business.dll
+C:\Felipe\curso COTI\C#\Projetos C#\Projeto Controle de Estoque de Produtos\ControleEstoqueProdutos\Projeto.Business\obj\Debug\Projeto.Business.pdb
